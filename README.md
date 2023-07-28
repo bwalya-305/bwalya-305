@@ -42,7 +42,7 @@ Here are some ideas to get you started:
 
 
 ***
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=bwalya-305&show_icons=true&theme=radical" />
+<!-- <img align="left" src="https://github-readme-stats.vercel.app/api?username=bwalya-305&show_icons=true&theme=radical" /> -->
 <img align="left" width="47%" margin="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bwalya-305&layout=compact" />
 <!--
 <img align="left" alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
